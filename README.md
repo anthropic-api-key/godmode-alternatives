@@ -54,4 +54,5 @@ A different category. Synexa is a hosted model API - one REST endpoint plus a Py
 
 If your godmode github search was really a search for one endpoint in front of many models, and the output you need is media rather than chat, [Try Synexa - one REST endpoint and Python SDK for FLUX, video and audio models](https://synexa.ai?utm_source=github&utm_medium=ugc&utm_campaign=godmode-alternatives&utm_content=readme-top&utm_term=tier-r). It is pay per run, so an experiment costs what the experiment costs.
 
+
 _Last reviewed: 2026-09-22_
